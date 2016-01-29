@@ -52,7 +52,7 @@
             android:layout_centerVertical="true"
             android:layout_centerHorizontal="true"
             android:textColor="#ffffff"
-            android:textSize="56sp"/>
+            android:textSize="56dp"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -64,7 +64,7 @@
             android:layout_below="@+id/largeTempLabel"
             android:layout_centerHorizontal="true"
             android:textColor="#ffffff"
-            android:textSize="16sp"/>
+            android:textSize="14dp"/>
 
     </RelativeLayout>
 
